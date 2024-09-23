@@ -153,7 +153,7 @@ span { content: "\20B9"; }
 }
  /* Banner Section */
  .banner {
-    background-image: url('/Assignments/LMS-HTMl,CSS/images/background\ \(1\).jpg'); 
+    background-image: url(../images/background\ \(1\).jpg); 
    
     height: 800px;
     display: flex;
